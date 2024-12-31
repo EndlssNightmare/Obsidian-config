@@ -1,0 +1,85 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "f2p2Z7zyq1JhfYV6D8H7_",
+      "name": "",
+      "value": "#ff0000"
+    },
+    {
+      "id": "MnNUC_ajYRKL6H-Y23Wr5",
+      "name": "",
+      "value": "#00ff40"
+    },
+    {
+      "id": "wXAgxTwWzFSp5fpnrBmdo",
+      "name": "",
+      "value": "#ff9e9e"
+    },
+    {
+      "id": "m6FN58exdz1juOY_lJm_3",
+      "name": "",
+      "value": "#3000b3"
+    },
+    {
+      "id": "eVPjp7jWD9y5lT_XZRCEy",
+      "name": "",
+      "value": "#1e00ff"
+    },
+    {
+      "id": "D4Scnit6Vzm_rKd8iTHRL",
+      "name": "",
+      "value": "#00ff7b"
+    },
+    {
+      "id": "SXkAy4wMkll5rJNItonJm",
+      "name": "",
+      "value": "#09ff05"
+    },
+    {
+      "id": "NdxSL1FcszDULkLrJmIdD",
+      "name": "",
+      "value": "#e1ff00"
+    },
+    {
+      "id": "8TU-X128NRr4OguwyuXLO",
+      "name": "",
+      "value": "#ff9500"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Archives",
+      "color": "D4Scnit6Vzm_rKd8iTHRL"
+    },
+    {
+      "path": "Archives/TRICKS",
+      "color": "f2p2Z7zyq1JhfYV6D8H7_"
+    },
+    {
+      "path": "Archives/OSCP-Tricks 🗂️",
+      "color": "f2p2Z7zyq1JhfYV6D8H7_"
+    },
+    {
+      "path": "Archives/Metodologia 🗂️",
+      "color": "f2p2Z7zyq1JhfYV6D8H7_"
+    },
+    {
+      "path": "Archives/Labs & CTFs 🧪🎯🏴‍☠️🕹️",
+      "color": "f2p2Z7zyq1JhfYV6D8H7_"
+    },
+    {
+      "path": "Archives/Desec 🗂️",
+      "color": "f2p2Z7zyq1JhfYV6D8H7_"
+    },
+    {
+      "path": "Archives/CW Courses 🎯",
+      "color": "f2p2Z7zyq1JhfYV6D8H7_"
+    },
+    {
+      "path": "Archives/HTB Automator",
+      "color": "f2p2Z7zyq1JhfYV6D8H7_"
+    }
+  ]
+}

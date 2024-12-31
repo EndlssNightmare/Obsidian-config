@@ -1,0 +1,25 @@
+.theme-dark {
+    --color-base-00: #4C00C0;
+    --color-base-30: #4C00C0;
+    --color-base-40: #4C00C0;
+    --background-primary: rgba(0, 0, 0, 0.418);
+    --background-secondary: rgba(0, 0, 0, 0.897);
+    --code-background: #83838333;
+    --modal-background: var(--color-base-00);
+}
+
+.suggestion-container.mod-search-suggestion,
+.menu,
+.prompt {
+    background-color: var(--color-base-00);
+}
+
+input[type=checkbox]:checked:after {
+    background-color: #000000;
+}
+
+.horizontal-main-container { /* below is the background image. Change it to whatever you want */
+    background: url(https://giffiles.alphacoders.com/100/100511.gif);
+    background-size: cover;
+}
+
